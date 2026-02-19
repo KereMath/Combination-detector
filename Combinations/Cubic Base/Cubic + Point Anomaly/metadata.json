@@ -1,0 +1,7002 @@
+[
+  {
+    "filename": "cubic_point_white_noise_000.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_001.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_002.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_003.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_004.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_005.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_006.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_007.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_008.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_009.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_010.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_011.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_012.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_013.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_014.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_015.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_016.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_017.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_018.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_019.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_020.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_021.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_022.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_023.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_024.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_025.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_026.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_027.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_028.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_029.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_030.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_031.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_032.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_033.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_034.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_035.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_036.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_037.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_038.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_039.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_040.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_041.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_042.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_043.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_044.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_045.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_046.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_047.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_048.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_049.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_050.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_051.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_052.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_053.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_054.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_055.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_056.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_057.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_058.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_059.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_060.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_061.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_062.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_063.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_064.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_065.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_066.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_067.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_068.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_069.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_070.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_071.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_072.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_073.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_074.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_075.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_076.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_077.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_078.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_079.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_080.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_081.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_082.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_083.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_084.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_085.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_086.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_087.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_088.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_089.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_090.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_091.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_092.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_093.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_094.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_095.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_096.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_097.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_098.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_099.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_100.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_101.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_102.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_103.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_104.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_105.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_106.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_107.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_108.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_109.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_110.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_111.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_112.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_113.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_114.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_115.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_116.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_117.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_118.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_119.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_120.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_121.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_122.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_123.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_124.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_125.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_126.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_127.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_128.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_129.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_130.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_131.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_132.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_133.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_134.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_135.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_136.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_137.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_138.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_139.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_140.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_141.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_142.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_143.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_144.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_145.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_146.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_147.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_148.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_149.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_150.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_151.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_152.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_153.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_154.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_155.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_156.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_157.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_158.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_159.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_160.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_161.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_162.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_163.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_164.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_165.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_166.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_167.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_168.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_169.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_170.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_171.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_172.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_173.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_174.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_175.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_176.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_177.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_178.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_179.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_180.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_181.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_182.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_183.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_184.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_185.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_186.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_187.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_188.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_189.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_190.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_191.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_192.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_193.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_194.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_195.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_196.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_197.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_198.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_199.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_200.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_201.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_202.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_203.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_204.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_205.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_206.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_207.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_208.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_209.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_210.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_211.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_212.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_213.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_214.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_215.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_216.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_217.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_218.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_219.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_220.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_221.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_222.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_223.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_224.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_225.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_226.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_227.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_228.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_229.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_230.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_231.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_232.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_233.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_234.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_235.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_236.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_237.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_238.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_239.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_240.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_241.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_242.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_243.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_244.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_245.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_246.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_247.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_248.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_white_noise_249.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_000.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_001.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_002.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_003.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_004.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_005.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_006.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_007.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_008.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_009.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_010.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_011.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_012.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_013.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_014.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_015.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_016.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_017.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_018.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_019.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_020.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_021.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_022.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_023.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_024.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_025.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_026.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_027.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_028.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_029.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_030.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_031.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_032.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_033.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_034.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_035.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_036.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_037.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_038.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_039.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_040.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_041.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_042.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_043.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_044.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_045.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_046.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_047.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_048.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_049.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_050.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_051.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_052.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_053.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_054.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_055.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_056.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_057.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_058.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_059.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_060.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_061.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_062.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_063.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_064.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_065.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_066.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_067.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_068.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_069.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_070.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_071.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_072.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_073.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_074.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_075.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_076.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_077.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_078.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_079.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_080.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_081.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_082.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_083.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_084.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_085.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_086.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_087.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_088.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_089.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_090.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_091.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_092.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_093.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_094.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_095.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_096.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_097.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_098.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_099.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_100.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_101.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_102.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_103.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_104.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_105.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_106.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_107.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_108.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_109.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_110.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_111.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_112.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_113.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_114.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_115.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_116.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_117.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_118.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_119.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_120.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_121.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_122.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_123.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_124.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_125.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_126.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_127.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_128.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_129.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_130.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_131.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_132.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_133.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_134.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_135.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_136.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_137.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_138.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_139.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_140.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_141.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_142.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_143.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_144.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_145.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_146.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_147.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_148.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_149.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_150.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_151.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_152.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_153.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_154.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_155.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_156.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_157.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_158.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_159.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_160.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_161.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_162.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_163.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_164.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_165.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_166.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_167.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_168.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_169.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_170.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_171.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_172.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_173.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_174.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_175.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_176.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_177.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_178.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_179.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_180.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_181.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_182.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_183.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_184.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_185.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_186.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_187.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_188.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_189.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_190.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_191.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_192.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_193.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_194.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_195.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_196.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_197.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_198.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_199.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_200.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_201.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_202.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_203.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_204.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_205.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_206.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_207.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_208.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_209.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_210.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_211.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_212.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_213.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_214.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_215.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_216.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_217.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_218.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_219.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_220.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_221.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_222.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_223.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_224.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_225.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_226.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_227.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_228.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_229.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_230.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_231.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_232.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_233.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_234.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_235.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_236.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_237.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_238.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_239.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_240.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_241.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_242.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_243.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_244.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_245.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_246.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_247.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_248.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ar_249.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_000.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_001.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_002.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_003.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_004.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_005.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_006.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_007.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_008.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_009.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_010.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_011.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_012.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_013.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_014.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_015.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_016.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_017.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_018.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_019.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_020.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_021.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_022.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_023.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_024.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_025.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_026.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_027.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_028.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_029.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_030.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_031.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_032.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_033.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_034.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_035.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_036.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_037.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_038.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_039.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_040.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_041.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_042.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_043.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_044.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_045.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_046.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_047.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_048.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_049.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_050.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_051.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_052.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_053.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_054.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_055.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_056.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_057.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_058.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_059.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_060.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_061.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_062.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_063.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_064.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_065.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_066.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_067.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_068.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_069.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_070.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_071.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_072.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_073.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_074.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_075.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_076.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_077.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_078.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_079.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_080.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_081.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_082.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_083.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_084.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_085.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_086.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_087.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_088.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_089.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_090.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_091.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_092.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_093.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_094.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_095.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_096.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_097.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_098.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_099.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_100.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_101.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_102.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_103.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_104.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_105.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_106.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_107.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_108.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_109.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_110.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_111.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_112.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_113.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_114.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_115.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_116.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_117.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_118.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_119.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_120.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_121.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_122.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_123.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_124.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_125.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_126.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_127.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_128.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_129.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_130.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_131.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_132.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_133.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_134.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_135.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_136.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_137.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_138.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_139.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_140.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_141.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_142.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_143.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_144.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_145.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_146.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_147.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_148.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_149.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_150.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_151.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_152.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_153.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_154.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_155.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_156.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_157.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_158.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_159.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_160.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_161.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_162.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_163.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_164.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_165.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_166.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_167.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_168.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_169.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_170.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_171.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_172.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_173.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_174.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_175.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_176.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_177.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_178.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_179.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_180.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_181.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_182.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_183.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_184.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_185.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_186.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_187.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_188.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_189.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_190.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_191.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_192.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_193.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_194.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_195.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_196.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_197.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_198.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_199.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_200.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_201.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_202.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_203.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_204.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_205.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_206.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_207.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_208.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_209.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_210.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_211.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_212.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_213.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_214.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_215.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_216.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_217.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_218.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_219.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_220.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_221.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_222.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_223.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_224.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_225.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_226.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_227.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_228.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_229.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_230.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_231.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_232.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_233.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_234.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_235.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_236.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_237.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_238.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_239.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_240.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_241.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_242.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_243.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_244.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_245.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_246.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_247.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_248.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_ma_249.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_000.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_001.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_002.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_003.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_004.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_005.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_006.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_007.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_008.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_009.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_010.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_011.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_012.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_013.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_014.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_015.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_016.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_017.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_018.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_019.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_020.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_021.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_022.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_023.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_024.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_025.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_026.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_027.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_028.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_029.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_030.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_031.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_032.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_033.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_034.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_035.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_036.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_037.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_038.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_039.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_040.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_041.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_042.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_043.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_044.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_045.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_046.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_047.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_048.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_049.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_050.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_051.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_052.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_053.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_054.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_055.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_056.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_057.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_058.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_059.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_060.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_061.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_062.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_063.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_064.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_065.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_066.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_067.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_068.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_069.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_070.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_071.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_072.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_073.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_074.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_075.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_076.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_077.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_078.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_079.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_080.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_081.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_082.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_083.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_084.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_085.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_086.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_087.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_088.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_089.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_090.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_091.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_092.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_093.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_094.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_095.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_096.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_097.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_098.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_099.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_100.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_101.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_102.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_103.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_104.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_105.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_106.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_107.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_108.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_109.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_110.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_111.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_112.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_113.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_114.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_115.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_116.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_117.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_118.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_119.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_120.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_121.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_122.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_123.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_124.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_125.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_126.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_127.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_128.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_129.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_130.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_131.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_132.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_133.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_134.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_135.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_136.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_137.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_138.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_139.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_140.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_141.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_142.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_143.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_144.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_145.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_146.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_147.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_148.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_149.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_150.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_151.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_152.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_153.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_154.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_155.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_156.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_157.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_158.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_159.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_160.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_161.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_162.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_163.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_164.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_165.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_166.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_167.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_168.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_169.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_170.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_171.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_172.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_173.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_174.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_175.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_176.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_177.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_178.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_179.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_180.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_181.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_182.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_183.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_184.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_185.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_186.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_187.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_188.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_189.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_190.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_191.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_192.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_193.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_194.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_195.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_196.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_197.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_198.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_199.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_200.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_201.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_202.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_203.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_204.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_205.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_206.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_207.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_208.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_209.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_210.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_211.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_212.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_213.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_214.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_215.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_216.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_217.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_218.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_219.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_220.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_221.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_222.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_223.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_224.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_225.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_226.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_227.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_228.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_229.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_230.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_231.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_232.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_233.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_234.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_235.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_236.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_237.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_238.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_239.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_240.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_241.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_242.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_243.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_244.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_245.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_246.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_247.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_248.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  },
+  {
+    "filename": "cubic_point_arma_249.csv",
+    "length": 500,
+    "label": "cubic_trend + point_anomaly",
+    "quadratic_trend": null,
+    "mean_shift": null
+  }
+]
