@@ -4,7 +4,8 @@
       "Bash(python:*)",
       "Bash(echo:*)",
       "Bash(\"c:/Users/user/Desktop/STATIONARY/combinations-thesis/tmp_analyze.py\":*)",
-      "Bash(/tmp/verify_readme.py:*)"
+      "Bash(/tmp/verify_readme.py:*)",
+      "Bash(/tmp/count_csvs.py:*)"
     ]
   }
 }

@@ -61,16 +61,34 @@ combinations-thesis/
 | 3  | `trend_shift`         | Eğimin (slope) ani olarak değişmesi                            |
 | 4  | `variance_shift`      | Varyansın ani olarak artması veya azalması                     |
 
-### Kombinasyon Matrisi
+### Kombinasyon Matrisi & CSV Sayıları
 
-```
-               collective  mean_shift  point   trend   variance
-cubic              ✓           ✓         ✓       —         ✓
-damped             ✓           ✓         ✓       —         ✓
-exponential        ✓           ✓         ✓       —         ✓
-linear             ✓           ✓         ✓       ✓         ✓
-quadratic          ✓           ✓         ✓       —         ✓
-```
+Toplam **31 010 CSV** dosyası, 21 klasöre dağılmıştır:
+
+| Kombinasyon                              | CSV Sayısı |
+|------------------------------------------|----------:|
+| `cubic + collective_anomaly`             |     1 000 |
+| `cubic + mean_shift`                     |     2 009 |
+| `cubic + point_anomaly`                  |     1 000 |
+| `cubic + variance_shift`                 |     1 000 |
+| `damped + collective_anomaly`            |     1 000 |
+| `damped + mean_shift`                    |     2 000 |
+| `damped + point_anomaly`                 |     1 000 |
+| `damped + variance_shift`                |     1 000 |
+| `exponential + collective_anomaly`       |     1 000 |
+| `exponential + mean_shift`               |     2 000 |
+| `exponential + point_anomaly`            |     1 000 |
+| `exponential + variance_shift`           |     1 000 |
+| `linear + collective_anomaly`            |     2 000 |
+| `linear + mean_shift`                    |     2 000 |
+| `linear + point_anomaly`                 |     2 000 |
+| `linear + trend_shift`                   |     3 000 |
+| `linear + variance_shift`                |     1 001 |
+| `quadratic + collective_anomaly`         |     1 000 |
+| `quadratic + mean_shift`                 |     2 000 |
+| `quadratic + point_anomaly`              |     2 000 |
+| `quadratic + variance_shift`             |     1 000 |
+| **TOPLAM**                               | **31 010** |
 
 > `trend_shift` yalnızca `linear` baz tipinde tanımlıdır (toplam 21 benzersiz kombinasyon).
 
@@ -89,19 +107,7 @@ quadratic          ✓           ✓         ✓       —         ✓
 
 ## Özellik Çıkarımı — tsfresh
 
-Eski el-yapımı 38 özellik yerine **tsfresh** `EfficientFCParameters` kullanılmaktadır.
-
-### Neden tsfresh?
-
-| Özellik                | El Yapımı (eski) | tsfresh (yeni)        |
-|------------------------|------------------|-----------------------|
-| Özellik sayısı         | 38               | ~750                  |
-| Otokorelasyon ailesi   | lag-1, lag-10    | Tüm laglar            |
-| Fourier / spektral     | Yok              | FFT katsayıları       |
-| Entropi                | Yok              | Sample, Approximate   |
-| Permutation entropy    | Yok              | Var                   |
-| Change point stats     | Yok              | Var                   |
-| Wavelet katsayıları    | Yok              | Cwt coefficients      |
+**tsfresh** `EfficientFCParameters` ile her seriden ~750 özellik otomatik çıkarılır.
 
 ### tsfresh Özellik Kategorileri
 
@@ -147,7 +153,7 @@ X_feat = tsfresh_extract_features(
 impute(X_feat)   # NaN temizle
 ```
 
-> Tüm seriler tek seferde toplu işlenir (seri başına ayrı çağrı değil) — daha hızlı ve tutarlı.
+> Tüm seriler tek seferde toplu işlenir — seri başına ayrı çağrı yapılmaz.
 
 ---
 
