@@ -1,20 +1,20 @@
 {
   "base_type": {
-    "best_model_name": "XGBoost",
-    "test_f1": 0.9458,
-    "test_acc": 0.9461,
+    "best_model_name": "LightGBM",
+    "test_f1": 0.9789,
+    "test_acc": 0.9786,
     "val_scores": {
       "LightGBM": {
-        "f1": 0.9477,
-        "acc": 0.9476
+        "f1": 0.9784,
+        "acc": 0.978
       },
       "XGBoost": {
-        "f1": 0.9495,
-        "acc": 0.9494
+        "f1": 0.9766,
+        "acc": 0.9762
       },
       "MLP": {
-        "f1": 0.9268,
-        "acc": 0.9262
+        "f1": 0.9586,
+        "acc": 0.9577
       }
     },
     "true_labels": [
@@ -3389,20 +3389,20 @@
   },
   "anomaly_type": {
     "best_model_name": "LightGBM",
-    "test_f1": 0.9689,
-    "test_acc": 0.9643,
+    "test_f1": 0.9821,
+    "test_acc": 0.9789,
     "val_scores": {
       "LightGBM": {
-        "f1": 0.969,
-        "acc": 0.9631
+        "f1": 0.9834,
+        "acc": 0.9804
       },
       "XGBoost": {
-        "f1": 0.9655,
-        "acc": 0.9589
+        "f1": 0.9794,
+        "acc": 0.9756
       },
       "MLP": {
-        "f1": 0.9375,
-        "acc": 0.9268
+        "f1": 0.9192,
+        "acc": 0.9077
       }
     },
     "true_labels": [
@@ -6776,24 +6776,24 @@
     ]
   },
   "combination_eval": {
-    "full_match": 3082,
-    "full_match_pct": 91.73,
-    "base_only": 97,
-    "anomaly_only": 158,
-    "no_match": 23,
+    "full_match": 3219,
+    "full_match_pct": 95.8,
+    "base_only": 69,
+    "anomaly_only": 70,
+    "no_match": 2,
     "total": 3360,
-    "base_accuracy": 0.9461,
-    "anomaly_accuracy": 0.9643,
+    "base_accuracy": 0.9786,
+    "anomaly_accuracy": 0.9789,
     "per_combination": {
       "linear+mean_shift": {
-        "full": 109,
+        "full": 134,
         "total": 162,
-        "rate": 67.3
+        "rate": 82.7
       },
       "exponential+collective_anomaly": {
-        "full": 162,
+        "full": 164,
         "total": 164,
-        "rate": 98.8
+        "rate": 100.0
       },
       "cubic+point_anomaly": {
         "full": 153,
@@ -6801,9 +6801,9 @@
         "rate": 100.0
       },
       "quadratic+variance_shift": {
-        "full": 138,
+        "full": 145,
         "total": 152,
-        "rate": 90.8
+        "rate": 95.4
       },
       "quadratic+point_anomaly": {
         "full": 165,
@@ -6811,84 +6811,84 @@
         "rate": 100.0
       },
       "linear+variance_shift": {
-        "full": 149,
+        "full": 150,
         "total": 151,
-        "rate": 98.7
+        "rate": 99.3
       },
       "linear+collective_anomaly": {
-        "full": 173,
+        "full": 181,
         "total": 181,
-        "rate": 95.6
+        "rate": 100.0
       },
       "damped+mean_shift": {
-        "full": 118,
+        "full": 152,
         "total": 171,
-        "rate": 69.0
+        "rate": 88.9
       },
       "exponential+mean_shift": {
-        "full": 94,
+        "full": 127,
         "total": 161,
-        "rate": 58.4
+        "rate": 78.9
       },
       "exponential+variance_shift": {
-        "full": 168,
+        "full": 171,
         "total": 172,
-        "rate": 97.7
+        "rate": 99.4
       },
       "cubic+mean_shift": {
-        "full": 141,
+        "full": 151,
         "total": 170,
-        "rate": 82.9
+        "rate": 88.8
       },
       "linear+trend_shift": {
-        "full": 144,
+        "full": 145,
         "total": 146,
-        "rate": 98.6
+        "rate": 99.3
       },
       "damped+variance_shift": {
-        "full": 147,
+        "full": 155,
         "total": 164,
-        "rate": 89.6
+        "rate": 94.5
       },
       "damped+collective_anomaly": {
-        "full": 135,
+        "full": 134,
         "total": 135,
-        "rate": 100.0
+        "rate": 99.3
       },
       "quadratic+mean_shift": {
-        "full": 149,
+        "full": 147,
         "total": 162,
-        "rate": 92.0
+        "rate": 90.7
       },
       "cubic+collective_anomaly": {
-        "full": 147,
+        "full": 148,
         "total": 148,
-        "rate": 99.3
-      },
-      "linear+point_anomaly": {
-        "full": 156,
-        "total": 160,
-        "rate": 97.5
-      },
-      "quadratic+collective_anomaly": {
-        "full": 161,
-        "total": 161,
         "rate": 100.0
       },
+      "linear+point_anomaly": {
+        "full": 160,
+        "total": 160,
+        "rate": 100.0
+      },
+      "quadratic+collective_anomaly": {
+        "full": 160,
+        "total": 161,
+        "rate": 99.4
+      },
       "cubic+variance_shift": {
-        "full": 163,
+        "full": 164,
         "total": 169,
-        "rate": 96.4
+        "rate": 97.0
       },
       "damped+point_anomaly": {
-        "full": 168,
+        "full": 170,
         "total": 170,
-        "rate": 98.8
+        "rate": 100.0
       },
       "exponential+point_anomaly": {
-        "full": 142,
+        "full": 143,
         "total": 143,
-        "rate": 99.3
+        "rate": 100.0
       }
     }
   }

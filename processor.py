@@ -1,160 +1,29 @@
 """
 Combinations-Thesis - Veri Isleme
-Combinations klasöründeki CSV'lerden ozellik cikarir,
+Combinations klasöründeki CSV'lerden tsfresh ile ozellik cikarir,
 her birini (base_type, anomaly_type) ile etiketler.
 """
 import numpy as np
 import pandas as pd
 from pathlib import Path
-from typing import Optional, Tuple, Dict, List
+from typing import Optional, Tuple, List
 import warnings
 import random
 from collections import defaultdict
 from tqdm import tqdm
 
+from tsfresh import extract_features as tsfresh_extract_features
+from tsfresh.utilities.dataframe_functions import impute
+from tsfresh.feature_extraction import EfficientFCParameters
+
 from config import (
-    COMBINATIONS_DIR, PROCESSED_DATA_DIR, WINDOW_FRACTION,
-    COMBO_FOLDER_MAP, BASE_LABELS, ANOMALY_LABELS,
+    COMBINATIONS_DIR, PROCESSED_DATA_DIR, COMBO_FOLDER_MAP,
+    BASE_LABELS, ANOMALY_LABELS,
     MAX_SAMPLES_PER_COMBO, MIN_SERIES_LENGTH, RANDOM_STATE
 )
 
 warnings.filterwarnings('ignore')
 random.seed(RANDOM_STATE)
-
-
-# ---------------------------------------------------------------
-# Ozellik cikarma
-# ---------------------------------------------------------------
-def _skewness(data: np.ndarray) -> float:
-    n, mean, std = len(data), np.mean(data), np.std(data)
-    if std == 0 or n < 3:
-        return 0.0
-    return (n / ((n-1)*(n-2))) * np.sum(((data - mean) / std) ** 3)
-
-
-def _kurtosis(data: np.ndarray) -> float:
-    n, mean, std = len(data), np.mean(data), np.std(data)
-    if std == 0 or n < 4:
-        return 0.0
-    return (n*(n+1)/((n-1)*(n-2)*(n-3))) * np.sum(((data-mean)/std)**4) \
-           - (3*(n-1)**2 / ((n-2)*(n-3)))
-
-
-def _autocorr(data: np.ndarray, lag: int) -> float:
-    if lag >= len(data) or lag < 1:
-        return 0.0
-    mean = np.mean(data)
-    c0 = np.sum((data - mean) ** 2)
-    if c0 == 0:
-        return 0.0
-    return np.sum((data[:-lag]-mean) * (data[lag:]-mean)) / c0
-
-
-def _count_peaks(data: np.ndarray) -> int:
-    if len(data) < 3:
-        return 0
-    return int(np.sum((data[1:-1] > data[:-2]) & (data[1:-1] > data[2:])))
-
-
-def _zero_crossing(data: np.ndarray) -> float:
-    if len(data) < 2:
-        return 0.0
-    return float(np.sum(np.diff(np.sign(data)) != 0) / (len(data) - 1))
-
-
-def _window_features(win: np.ndarray) -> Optional[Dict]:
-    """38 istatistiksel ozellik cikar (tek pencere)."""
-    if len(win) < 2:
-        return None
-    f = {}
-    try:
-        f['mean']   = np.mean(win)
-        f['std']    = np.std(win)
-        f['var']    = np.var(win)
-        f['min']    = np.min(win)
-        f['max']    = np.max(win)
-        f['range']  = f['max'] - f['min']
-        f['q25']    = np.percentile(win, 25)
-        f['median'] = np.median(win)
-        f['q75']    = np.percentile(win, 75)
-        f['iqr']    = f['q75'] - f['q25']
-        f['skewness'] = _skewness(win)
-        f['kurtosis'] = _kurtosis(win)
-        f['cv']     = f['std'] / (abs(f['mean']) + 1e-10)
-
-        d1 = np.diff(win)
-        f['diff1_mean'] = np.mean(d1)
-        f['diff1_std']  = np.std(d1)
-        f['diff1_var']  = np.var(d1)
-        d2 = np.diff(d1) if len(d1) > 1 else np.array([0.0])
-        f['diff2_mean'] = np.mean(d2)
-        f['diff2_std']  = np.std(d2)
-
-        rw = max(2, len(win) // 5)
-        if rw < len(win):
-            rm = np.array([np.mean(win[i:i+rw]) for i in range(len(win)-rw+1)])
-            rs = np.array([np.std(win[i:i+rw])  for i in range(len(win)-rw+1)])
-            f['rolling_mean_std']   = np.std(rm)
-            f['rolling_mean_range'] = float(np.max(rm) - np.min(rm))
-            f['rolling_std_mean']   = np.mean(rs)
-            f['rolling_std_std']    = np.std(rs)
-        else:
-            f['rolling_mean_std']   = 0.0
-            f['rolling_mean_range'] = 0.0
-            f['rolling_std_mean']   = f['std']
-            f['rolling_std_std']    = 0.0
-
-        half = len(win) // 2
-        if half > 0:
-            h1, h2 = win[:half], win[half:]
-            f['half_mean_diff']  = float(np.mean(h2) - np.mean(h1))
-            f['half_std_diff']   = float(np.std(h2)  - np.std(h1))
-            f['half_mean_ratio'] = float(np.mean(h2) / (np.mean(h1) + 1e-10))
-        else:
-            f['half_mean_diff']  = 0.0
-            f['half_std_diff']   = 0.0
-            f['half_mean_ratio'] = 1.0
-
-        f['autocorr_lag1']      = _autocorr(win, 1)
-        f['autocorr_lag10']     = _autocorr(win, min(10, len(win)-1))
-        f['num_peaks']          = float(_count_peaks(win))
-        f['zero_crossing_rate'] = _zero_crossing(win - np.mean(win))
-    except Exception:
-        return None
-    return f
-
-
-def extract_features(data: np.ndarray) -> Optional[np.ndarray]:
-    """
-    L/5 sliding window ile tum seriden ozellik cikar.
-    Her pencereden 38 ozellik, pencereler arasi mean/std agregasyonu.
-    """
-    if len(data) < MIN_SERIES_LENGTH:
-        return None
-
-    win_size = max(10, int(len(data) * WINDOW_FRACTION))
-    step     = max(1, win_size // 2)
-
-    windows_feat: List[Dict] = []
-    for start in range(0, len(data) - win_size + 1, step):
-        wf = _window_features(data[start:start + win_size])
-        if wf:
-            windows_feat.append(wf)
-
-    if not windows_feat:
-        return None
-
-    if len(windows_feat) == 1:
-        return np.array(list(windows_feat[0].values()), dtype=float)
-
-    # Birden fazla pencere varsa mean + std ile agregasyon
-    keys = list(windows_feat[0].keys())
-    agg = []
-    for k in keys:
-        vals = [w[k] for w in windows_feat]
-        agg.append(np.mean(vals))
-        agg.append(np.std(vals))
-    return np.array(agg, dtype=float)
 
 
 # ---------------------------------------------------------------
@@ -217,7 +86,7 @@ def balance_dataset(items: List[Tuple]) -> List[Tuple]:
 # ---------------------------------------------------------------
 def process_and_save():
     print("=" * 60)
-    print("Combinations verisi isleniyor...")
+    print("Combinations verisi isleniyor (tsfresh)...")
     print("=" * 60)
 
     # 1. Dosyalari tara
@@ -228,52 +97,74 @@ def process_and_save():
     balanced = balance_dataset(all_items)
     print(f"\nDengeleme sonrasi: {len(balanced)} ornek")
 
-    # 3. Ozellik cikar
-    X, y_base, y_anomaly = [], [], []
+    # 3. CSV'leri yükle, long-format DataFrame olustur
+    series_dfs: List[pd.DataFrame] = []
+    labels: List[Tuple[str, str]] = []
+    sid = 0
     failed = 0
 
-    for csv_path, base_type, anomaly_type in tqdm(balanced, desc="Ozellik cikariliyor"):
+    for csv_path, base_type, anomaly_type in tqdm(balanced, desc="CSV okunuyor"):
         try:
             df   = pd.read_csv(csv_path, usecols=['data'])
             data = df['data'].dropna().values.astype(float)
-            feat = extract_features(data)
-            if feat is None:
+            if len(data) < MIN_SERIES_LENGTH:
                 failed += 1
                 continue
-            X.append(feat)
-            y_base.append(BASE_LABELS.index(base_type))
-            y_anomaly.append(ANOMALY_LABELS.index(anomaly_type))
-        except Exception as e:
+            series_dfs.append(pd.DataFrame({
+                'id':    sid,
+                'time':  np.arange(len(data)),
+                'value': data,
+            }))
+            labels.append((base_type, anomaly_type))
+            sid += 1
+        except Exception:
             failed += 1
 
-    print(f"\nBasarili: {len(X)}  |  Basarisiz/atlanan: {failed}")
+    print(f"\nBasarili: {sid}  |  Basarisiz/atlanan: {failed}")
 
-    if not X:
+    if not series_dfs:
         print("HATA: Hic ornek islenmedi!")
         return
 
-    # Farkli uzunluktaki vektörleri doldur (padding)
-    max_len = max(len(x) for x in X)
-    X_padded = np.array([
-        np.pad(x, (0, max_len - len(x))) if len(x) < max_len else x
-        for x in X
-    ], dtype=float)
+    combined_df = pd.concat(series_dfs, ignore_index=True)
 
-    y_base    = np.array(y_base,    dtype=int)
-    y_anomaly = np.array(y_anomaly, dtype=int)
+    # 4. tsfresh ile toplu ozellik cikarimi
+    print(f"\ntsfresh ozellik cikarimi basliyor ({sid} seri, EfficientFCParameters)...")
+    print("Not: Bu adim veri buyuklugune gore 5-30 dk surebilir.\n")
 
-    # 4. Kaydet
+    X_feat = tsfresh_extract_features(
+        combined_df,
+        column_id='id',
+        column_sort='time',
+        column_value='value',
+        default_fc_parameters=EfficientFCParameters(),
+    )
+
+    # NaN / Inf temizle
+    impute(X_feat)
+
+    X         = X_feat.values
+    y_base    = np.array([BASE_LABELS.index(l[0])    for l in labels], dtype=int)
+    y_anomaly = np.array([ANOMALY_LABELS.index(l[1]) for l in labels], dtype=int)
+
+    # 5. Kaydet
     PROCESSED_DATA_DIR.mkdir(exist_ok=True)
-    np.save(PROCESSED_DATA_DIR / 'X.npy',        X_padded)
-    np.save(PROCESSED_DATA_DIR / 'y_base.npy',   y_base)
+    np.save(PROCESSED_DATA_DIR / 'X.npy',         X)
+    np.save(PROCESSED_DATA_DIR / 'y_base.npy',    y_base)
     np.save(PROCESSED_DATA_DIR / 'y_anomaly.npy', y_anomaly)
 
-    print(f"\nKaydedildi: {PROCESSED_DATA_DIR}")
-    print(f"Ozellik matrisi boyutu: {X_padded.shape}")
-    print(f"Base labels dagılımı: {dict(zip(BASE_LABELS, np.bincount(y_base, minlength=len(BASE_LABELS))))}")
-    print(f"Anomaly labels dagılımı: {dict(zip(ANOMALY_LABELS, np.bincount(y_anomaly, minlength=len(ANOMALY_LABELS))))}")
+    # Ozellik isimlerini de kaydet (trainer'da debug icin faydali)
+    feature_names = list(X_feat.columns)
+    import json
+    with open(PROCESSED_DATA_DIR / 'feature_names.json', 'w') as f:
+        json.dump(feature_names, f)
 
-    return X_padded, y_base, y_anomaly
+    print(f"\nKaydedildi: {PROCESSED_DATA_DIR}")
+    print(f"Ozellik matrisi boyutu: {X.shape}")
+    print(f"Base labels dagılımı:   {dict(zip(BASE_LABELS, np.bincount(y_base,    minlength=len(BASE_LABELS))))}")
+    print(f"Anomaly labels dagılımı:{dict(zip(ANOMALY_LABELS, np.bincount(y_anomaly, minlength=len(ANOMALY_LABELS))))}")
+
+    return X, y_base, y_anomaly
 
 
 if __name__ == "__main__":
